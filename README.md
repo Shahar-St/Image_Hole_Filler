@@ -17,7 +17,9 @@ The input image is being generated from sample.jpg in the main folder, and a hol
 
 ### Example:
 Before
+
 ![txt](https://github.com/Shahar-St/Image_Hole_Filler/blob/master/input.jpg?raw=true)
 
 After
+
 ![txt](https://github.com/Shahar-St/Image_Hole_Filler/blob/master/output.jpg?raw=true)
