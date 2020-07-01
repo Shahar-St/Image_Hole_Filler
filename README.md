@@ -22,4 +22,3 @@ Before
 
 After
 
-![txt](https://github.com/Shahar-St/Image_Hole_Filler/blob/master/output.jpg?raw=true)
