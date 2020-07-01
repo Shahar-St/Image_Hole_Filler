@@ -13,4 +13,11 @@ The library supports two filling algorithms:
 
 ## How can I run it?
 
-The input image is being generated from sample.jpg in the main folder and a hole is being generated. To check out different images, simply change sample.jpg with your own.
+The input image is being generated from sample.jpg in the main folder, and a hole is being generated. To check out different images, simply change sample.jpg with your own.
+
+### Example:
+Before
+![txt](https://github.com/Shahar-St/Image_Hole_Filler/blob/master/input.jpg?raw=true)
+
+After
+![txt](https://github.com/Shahar-St/Image_Hole_Filler/blob/master/output.jpg?raw=true)
